@@ -12,4 +12,4 @@ Netflox est une application web permettant de consulter les films et séries dis
 
 - Cloner le projet
 - Installer les dépendances avec `npm install`
-- Lancer le serveur avec `npm start`
+- Lancer le serveur avec `npm start`. Le serveur est accessible à l'adresse `http://localhost:3000/`
